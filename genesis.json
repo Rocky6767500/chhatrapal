@@ -1,0 +1,89 @@
+{
+  "artist": {
+    "name": "Elara Voss",
+    "tagline": "Visionary Digital Artist",
+    "quote": "In the code of chaos, I paint eternity",
+    "bio": {
+      "short": "Exploring the intersection of artificial intelligence, blockchain technology, and surrealist expression to create art that transcends physical boundaries",
+      "paragraphs": [
+        "Elara Voss is a visionary digital artist whose work exists at the convergence of cutting-edge technology and timeless artistic expression. Born from the digital age, her creations challenge the boundaries between human creativity and artificial intelligence.",
+        "Each piece is a meditation on the nature of consciousness, reality, and the infinite possibilities that emerge when code becomes canvas. Her work has been featured in prestigious galleries worldwide and collected by prominent museums.",
+        "Through blockchain technology, Elara has pioneered new models of artistic ownership and community engagement, creating living artworks that evolve with their collectors."
+      ]
+    }
+  },
+  "theme": {
+    "colors": {
+      "void": "#1A1A2E",
+      "voidLight": "#16213E",
+      "voidDeep": "#0F3460",
+      "neonPulse": "#E94560",
+      "neonGlow": "#FF6B9D"
+    },
+    "fonts": {
+      "primary": "Inter",
+      "display": "Recursive"
+    }
+  },
+  "timeline": [
+    {
+      "year": "2018",
+      "title": "Digital Awakening",
+      "description": "First AI-generated artwork exhibited at Digital Dreams Festival"
+    },
+    {
+      "year": "2020",
+      "title": "Blockchain Pioneer",
+      "description": "Launched first NFT collection 'Fractal Visions' on Ethereum"
+    },
+    {
+      "year": "2022",
+      "title": "Sotheby's Breakthrough",
+      "description": "Sold $1M NFT 'Eternal Recursion' at Sotheby's Contemporary Art Auction"
+    },
+    {
+      "year": "2023",
+      "title": "AR Innovation",
+      "description": "Premiered interactive AR installation at Venice Biennale"
+    },
+    {
+      "year": "2024",
+      "title": "Web3 Visionary",
+      "description": "Founded 'Code Canvas' - decentralized art collective on Polygon"
+    }
+  ],
+  "portfolio": {
+    "categories": ["All", "Fractal Dreams", "AR Echoes", "Blockchain Visions", "Interactive"],
+    "projects": [
+      {
+        "id": 1,
+        "title": "Eternal Recursion",
+        "category": "Fractal Dreams",
+        "year": "2022",
+        "price": "$1,000,000",
+        "description": "AI-generated fractal exploring infinite self-similarity",
+        "nft": "Sold at Sotheby's"
+      }
+    ]
+  },
+  "exhibitions": [
+    {
+      "title": "Venice Biennale 2023",
+      "location": "Venice, Italy",
+      "type": "AR Installation",
+      "year": "2023",
+      "description": "Premiered 'Portal Visions' - an immersive AR experience exploring digital consciousness"
+    }
+  ],
+  "social": {
+    "twitter": "#",
+    "instagram": "#",
+    "discord": "#",
+    "opensea": "#"
+  },
+  "contact": {
+    "email": "contact@elaravoss.art",
+    "newsletter": true,
+    "web3": true
+  }
+}
